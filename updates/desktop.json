@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "notes": "Release desktop 0.1.1",
+  "pub_date": "2026-10-20T02:55:01Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidU9OZzFkYkVvbTkrN09pNnJUNjI2eXd3MmtZWE1Pbk11c0J4V3p3MEVRcjliWjVxWTZ2OW5NOWVuTENhRGF2WjdLeHU5L1ltU3N6Z2ZocllmRnpmTGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDY0OTAwCWZpbGU6V2Fya3NpdGVfMC4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xCjBwaWZydi9BU1RqRlV3NmoxVkpQWS9Hc09OUGdBV0xGaFczUFdjR05xSFVCTkRwMzRtUzFaR3BueTVDcXdKYTR0TldSVzRzYkZZU1BMUWpRc3R0RkFRPT0K",
+      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-v0.1.1/Warksite_0.1.1_x64-setup.exe"
+    }
+  }
+}
