@@ -1,9 +1,9 @@
 {
-  "version": "1.0.4",
-  "versionCode": 29875149,
-  "pub_date": "2026-10-20T15:15:08Z",
-  "notes": "Fix photo uploads on Android",
-  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-v1.0.4/warksite-1.0.4.apk",
-  "sha256": "b81f503f2967941203d16cf8f0a1818709b550af0582e8d1df93f3e133605695",
-  "size": 71009024
+  "version": "1.0.5",
+  "versionCode": 29875219,
+  "pub_date": "2026-10-20T16:48:30Z",
+  "notes": "Sign in with an invite code; set your password after an admin reset",
+  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-v1.0.5/warksite-1.0.5.apk",
+  "sha256": "a65edc28e6d3bfe74953b00a35f4e0991c921d016c9e75cb6b0dcba64d38477e",
+  "size": 72119492
 }
