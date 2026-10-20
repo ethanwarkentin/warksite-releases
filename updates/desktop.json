@@ -1,11 +1,11 @@
 {
-  "version": "0.1.6",
-  "notes": "Fixes the blank window after leaving Admin; a crash now shows a Reload screen",
-  "pub_date": "2026-10-20T19:50:37Z",
+  "version": "0.1.7",
+  "notes": "New menu button at the top left holds Storage, Admin, AI clients, logs, updates and Sign out, so the top bar no longer runs off the screen. The window now remembers its size, position and maximized state. Shows Offline instead of Sign",
+  "pub_date": "2026-10-20T23:11:18Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidUZKdmx2OHp1VGhBaWhwL1pQY3J5REFsSlYxeXFFVkhOSWdzSGR4WGNIV2RSdng3ZW9IS1I2YzVVNWNLWitmNjJDdVBuTHVrU1dNZGFxVFlVbjVFSnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTI1ODM3CWZpbGU6V2Fya3NpdGVfMC4xLjZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS42Cmhxa2k3bmpZdXFHYS85OXFqdFI3SDljK2hlN3g5UkFTWDJRYnVBbnVmTStuazdNRWlCM3FlRTZFS0hyZFNuOHkyQkF2NXVjQmpQYThSeFdaSTMzc0RRPT0K",
-      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-v0.1.6/Warksite_0.1.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidUVBRjJJelc1dXdPTmJQMmd2dEZPSnJBbEVKVDNvdVZBd00yeTE2Qk16VzJ5cVhqM1pteXZCMEdOTE1NTzhmZ21nUVlxeStKK2hqNmM3WHZNN3ZUaEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTM3ODc3CWZpbGU6V2Fya3NpdGVfMC4xLjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS43CjJITkx4UVRGL28rMTBSWjVkNXdSZjU3ejRhUHVsVTRwL3ZmRGlFQjk4a2QyV1VsWnBvZDRUTkJMOHlEL3ZaMmRnZmpZUzRsREl3QlBGVUQyY2xMUkJnPT0K",
+      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-v0.1.7/Warksite_0.1.7_x64-setup.exe"
     }
   }
 }
