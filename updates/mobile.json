@@ -1,9 +1,9 @@
 {
-  "version": "1.0.3",
-  "versionCode": 29875079,
-  "pub_date": "2026-10-20T14:05:48Z",
-  "notes": "New Warksite icon and a fresh look: light and dark themes, bigger buttons for gloves.",
-  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-v1.0.3/warksite-1.0.3.apk",
-  "sha256": "a6dcf3271f24d0aeb9478c5e300657c79d45575fdd70f1d5ce544cf12270313e",
-  "size": 71008664
+  "version": "1.0.4",
+  "versionCode": 29875149,
+  "pub_date": "2026-10-20T15:15:08Z",
+  "notes": "Fix photo uploads on Android",
+  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-v1.0.4/warksite-1.0.4.apk",
+  "sha256": "b81f503f2967941203d16cf8f0a1818709b550af0582e8d1df93f3e133605695",
+  "size": 71009024
 }
