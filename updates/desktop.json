@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "Change your password from the new Account screen (click your name in the header)",
-  "pub_date": "2026-10-20T16:08:04Z",
+  "version": "0.1.5",
+  "notes": "Admin area for managing people and invites; sign in with an invite code",
+  "pub_date": "2026-10-20T16:38:18Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidUFxVXBQVzhwNzRMSVI0UDNENVhoNXF4RjllODdBaiswR0R6TVkyYmFNMFd5VjRjVEljNEp0RWswTEZhemovRmYwSXZqdXI0NUNWTlNlOUY0bW11ZEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTEyNDc5CWZpbGU6V2Fya3NpdGVfMC4xLjRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS40ClloMU5mUWw4T1hFaVdvZWYzMGR0d2pISjRsNVBueDc3NmJ1azZWREl5UndjZm1lbXpkNEZsdWxXdWI1OFB3c2ZyMTYvbEllMWhwZE1tTEdodkR4SENnPT0K",
-      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-v0.1.4/Warksite_0.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidUtPSXRCaHU3bFBEREZZekxabkw2QTdZRWsyaTFtVndieTZwZ0NQc0d1b1lrdmkrZi82RWhDRndJRnZsK0ZsV1ZKUWRBVWU5d1RDbWphS2xwL2RhWXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTE0Mjg1CWZpbGU6V2Fya3NpdGVfMC4xLjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS41CjBXUURnNlJNTUsvc1ZKQmUvdWZlbWRJYVlGeGxzSGRTTm90MHcxazMrT0JNbmpIK2xkcVJrTHNkWW1OWGprQzQ4eWlZOEZabDM1ckEya3N2SmR5TUJ3PT0K",
+      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-v0.1.5/Warksite_0.1.5_x64-setup.exe"
     }
   }
 }
