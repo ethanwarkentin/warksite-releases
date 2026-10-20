@@ -1,9 +1,9 @@
 {
-  "version": "1.0.2",
-  "versionCode": 29874432,
-  "pub_date": "2026-10-20T03:17:54Z",
-  "notes": "Update test: this version installed itself.",
-  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-v1.0.2/warksite-1.0.2.apk",
-  "sha256": "d55f00c1b1f028180001b926d5fb20a063a3a744c83416fa4477381d34f2d3e9",
-  "size": 70489704
+  "version": "1.0.3",
+  "versionCode": 29875079,
+  "pub_date": "2026-10-20T14:05:48Z",
+  "notes": "New Warksite icon and a fresh look: light and dark themes, bigger buttons for gloves.",
+  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-v1.0.3/warksite-1.0.3.apk",
+  "sha256": "a6dcf3271f24d0aeb9478c5e300657c79d45575fdd70f1d5ce544cf12270313e",
+  "size": 71008664
 }
