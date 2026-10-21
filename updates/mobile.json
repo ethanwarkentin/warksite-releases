@@ -1,9 +1,9 @@
 {
-  "version": "1.0.7",
-  "versionCode": 29876478,
-  "pub_date": "2026-10-21T13:36:23Z",
-  "notes": "New: Storage > Reset",
-  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-v1.0.7/warksite-1.0.7.apk",
-  "sha256": "06bbc0ae99fd3bcf7940a142f64eebe5a8ad6573b52178339d83b94f0f40404e",
-  "size": 72137748
+  "version": "1.0.8",
+  "versionCode": 29876515,
+  "pub_date": "2026-10-21T14:17:56Z",
+  "notes": "New: a search bar on the home screen finds projects, materials and notes (works offline). Easier to tap: the Sync screen's Account, Storage and About links are now big full-width rows, and the account card on home opens Sync from anywhere on it.",
+  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-v1.0.8/warksite-1.0.8.apk",
+  "sha256": "3ea6b23db6bef601c898529c3a7c8cbcb5bc3a34f5c6b7696403dbf6ab643f4e",
+  "size": 72146084
 }
