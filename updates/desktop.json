@@ -1,11 +1,11 @@
 {
-  "version": "0.1.7",
-  "notes": "New menu button at the top left holds Storage, Admin, AI clients, logs, updates and Sign out, so the top bar no longer runs off the screen. The window now remembers its size, position and maximized state. Shows Offline instead of Sign",
-  "pub_date": "2026-10-20T23:11:18Z",
+  "version": "0.1.8",
+  "notes": "New: Storage > Reset",
+  "pub_date": "2026-10-21T13:23:21Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidUVBRjJJelc1dXdPTmJQMmd2dEZPSnJBbEVKVDNvdVZBd00yeTE2Qk16VzJ5cVhqM1pteXZCMEdOTE1NTzhmZ21nUVlxeStKK2hqNmM3WHZNN3ZUaEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTM3ODc3CWZpbGU6V2Fya3NpdGVfMC4xLjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS43CjJITkx4UVRGL28rMTBSWjVkNXdSZjU3ejRhUHVsVTRwL3ZmRGlFQjk4a2QyV1VsWnBvZDRUTkJMOHlEL3ZaMmRnZmpZUzRsREl3QlBGVUQyY2xMUkJnPT0K",
-      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-v0.1.7/Warksite_0.1.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidUpiWjI5Ylg5dVUyN3RNa2tLMjR3NEptZCtqVUVUNEVZOWZTQTdsU2ZHZnJhOHowelVQcE5qcCsrb1M5Q2tsc3lRVHpPZ0Nnb2k0UVNVOWlwUHhPalFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTg5MDAwCWZpbGU6V2Fya3NpdGVfMC4xLjhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS44Ckc4SEdpU2dScFVwNEVUR2d1ajNFTWRKQ3hZOFZRcEZTcTAyMnZ1em1JbytWMHdrMWV2RUt1TjZIaFRGRFBOTzUxcEUydVpneG5SMlQrczI0L1RpK0NBPT0K",
+      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-v0.1.8/Warksite_0.1.8_x64-setup.exe"
     }
   }
 }
