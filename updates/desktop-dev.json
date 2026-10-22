@@ -1,0 +1,11 @@
+{
+  "version": "0.1.8-1",
+  "notes": "Dev build from b1d21b7: Warksite Dev desktop and mobile builds on every merge (WARK-S39), drop projecthub ids (WARK-T9) (#43)",
+  "pub_date": "2026-10-22T14:56:55Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidU9ESG1uK04zeHJQVDRydC9VWFJvTG1zbzdLYkkrcklDWFlUL0JmQ3o3cXRwd0RJMHppUWpGdEZMVGdzLzZ6R0xMa2J5Q1BCeUNtejFIU3FsWHdEd2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjgwOTk5CWZpbGU6V2Fya3NpdGUgRGV2XzAuMS44LTFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS44LTEKak5ydlQzRCtXNHNKdFR2TEhyMlFEYkZNNTJIZ3RlS0NVdHBDSGdaamV6ZHVLWG1Od3RZZ2JUM0hDdTZpWXZLSGdKY3FCRS9sTTY5QjNyd3RxQi8wRGc9PQo=",
+      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-dev-v0.1.8-1/Warksite-Dev_0.1.8-1_x64-setup.exe"
+    }
+  }
+}
