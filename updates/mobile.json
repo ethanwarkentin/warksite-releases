@@ -1,9 +1,9 @@
 {
-  "version": "1.0.8",
-  "versionCode": 29876515,
-  "pub_date": "2026-10-21T14:17:56Z",
-  "notes": "New: a search bar on the home screen finds projects, materials and notes (works offline). Easier to tap: the Sync screen's Account, Storage and About links are now big full-width rows, and the account card on home opens Sync from anywhere on it.",
-  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-v1.0.8/warksite-1.0.8.apk",
-  "sha256": "3ea6b23db6bef601c898529c3a7c8cbcb5bc3a34f5c6b7696403dbf6ab643f4e",
-  "size": 72146084
+  "version": "1.0.9",
+  "versionCode": 29878197,
+  "pub_date": "2026-10-22T18:15:14Z",
+  "notes": "Projects now show Tasks, Materials and Notes in tabs grouped by section, matching the desktop app.",
+  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-v1.0.9/warksite-1.0.9.apk",
+  "sha256": "2eb0775be3bbf1be5cf999c0fb8a29cee99f5ca354218362a8bb20f7982935af",
+  "size": 72134652
 }
