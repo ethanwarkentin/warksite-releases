@@ -1,0 +1,9 @@
+{
+  "version": "1.0.8-29878041",
+  "versionCode": 29878041,
+  "pub_date": "2026-10-22T15:44:08Z",
+  "notes": "Dev build from 9b20957: Fix mobile dev publish: don't pass the APK name as a job output (WARK-S39) (#44)",
+  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-dev-v1.0.8-29878041/warksite-dev-1.0.8-29878041.apk",
+  "sha256": "a798e714fa1fec36014278b1340ce94302cd564f40ded40df1c30de3ea86d4d4",
+  "size": 72146116
+}
