@@ -1,9 +1,9 @@
 {
-  "version": "1.0.8-29878082",
-  "versionCode": 29878082,
-  "pub_date": "2026-10-22T16:25:29Z",
-  "notes": "Dev build from c027513: Warksite Dev: DEV banner and green app icon on desktop and mobile (WARK-S40) (#45)",
-  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-dev-v1.0.8-29878082/warksite-dev-1.0.8-29878082.apk",
-  "sha256": "0c939f722ca6a41b0c29f44be93b69c56d84681ea360b09ec32d8dcb404467af",
-  "size": 72131512
+  "version": "1.0.8-29878170",
+  "versionCode": 29878170,
+  "pub_date": "2026-10-22T17:54:17Z",
+  "notes": "Dev build from e8348d1: Mobile project tabs + switch local apps between dev and local API (WARK-S42) (#47)",
+  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-dev-v1.0.8-29878170/warksite-dev-1.0.8-29878170.apk",
+  "sha256": "15eb40a822d67638c5e570c7138a76e1527585b8e7c031dad9398699471de9a4",
+  "size": 72135260
 }
