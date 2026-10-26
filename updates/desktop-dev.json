@@ -1,11 +1,11 @@
 {
-  "version": "0.1.8-3",
-  "notes": "Dev build from 9c15a31: Meeting recordings phase 1: record on mobile, play back on desktop (WARK-S43) (#48)",
-  "pub_date": "2026-10-26T15:20:09Z",
+  "version": "0.1.8-4",
+  "notes": "Dev build from 53a80bf: Meeting recordings phase 2: free local transcription on desktop (WARK-S44) (#49)",
+  "pub_date": "2026-10-26T16:04:56Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidU1UVWQvN215disxMFdNRm9KNzZFblVPVVFwWmdIYXZXaGRUdDVSNVllVlphd1NVZVNUbFMxRHdycDlXeWNUWmRwYWZwZXAzVk5FYStPR3BsbFRZNUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDI3OTc3CWZpbGU6V2Fya3NpdGUgRGV2XzAuMS44LTNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS44LTMKcktySnUxV2tUa3F6UHZuUG5jMGl1SnNKMGUzVlVpd2o4SDl3NjRob1hyMTZkcXBRTWRwQjBCeXd2TFNNOVBYZmZpdWdrL0JydmhCRFhzc1JoTTNhRGc9PQo=",
-      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-dev-v0.1.8-3/Warksite-Dev_0.1.8-3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidUFlazVieTJJelRtMld5eGFoK2g5QXhZRFE3eVB2M21yK1BWRlVLQjgxVWpmOGtvN1g5b2JjZVhYMTVMU1NadzFzNDd1Mk1KUVdEUHFtbkN3U1ZkZXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDMwNjc4CWZpbGU6V2Fya3NpdGUgRGV2XzAuMS44LTRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS44LTQKWjA0L3BoelI0R1JkenpqRHNBMlZ5OXBvNU80dFRlZHlDbEloLzJQZklYV2NHTGE4KzZCRjZYWmJod21NSVNTNXZFamFzNnVkRDJuN1haNGR1MklSQ1E9PQo=",
+      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-dev-v0.1.8-4/Warksite-Dev_0.1.8-4_x64-setup.exe"
     }
   }
 }
