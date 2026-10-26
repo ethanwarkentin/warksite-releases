@@ -1,9 +1,9 @@
 {
-  "version": "1.0.9-29883793",
-  "versionCode": 29883793,
-  "pub_date": "2026-10-26T15:37:53Z",
-  "notes": "Dev build from 9c15a31: Meeting recordings phase 1: record on mobile, play back on desktop (WARK-S43) (#48)",
-  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-dev-v1.0.9-29883793/warksite-dev-1.0.9-29883793.apk",
-  "sha256": "7a28b961a8824609062caeba743fb78b8998a021996f0d140114797d1f5a2f50",
-  "size": 74864667
+  "version": "1.0.9-29883838",
+  "versionCode": 29883838,
+  "pub_date": "2026-10-26T16:19:39Z",
+  "notes": "Dev build from 53a80bf: Meeting recordings phase 2: free local transcription on desktop (WARK-S44) (#49)",
+  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-dev-v1.0.9-29883838/warksite-dev-1.0.9-29883838.apk",
+  "sha256": "d210f90bae9df0a1243dfb9dfe255c310330dd2649c55b115d359f9b3b804aef",
+  "size": 74869739
 }
