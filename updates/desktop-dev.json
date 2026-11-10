@@ -1,11 +1,11 @@
 {
-  "version": "0.1.8-5",
-  "notes": "Dev build from 7ca5239: Desktop: wait for a just-downloaded file to be free before opening it (#50)",
-  "pub_date": "2026-11-10T05:59:46Z",
+  "version": "0.1.8-6",
+  "notes": "Dev build from 6f44663: Desktop: view photos in an in-app viewer instead of Windows Photos (WARK-T11) (#51)",
+  "pub_date": "2026-11-10T13:43:17Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidUNjRGNId05lUGcvVTVON2JNelhmdURGMDRzdVU4RWdUNnNDWmQvWStJWW53QTJoajRaczBiUUcxVjhMMU4rMytnVVFId2NzYW40Y1lIRWdMa1YwTEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjkwMzUyCWZpbGU6V2Fya3NpdGUgRGV2XzAuMS44LTVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS44LTUKYmVqaWpRTjlxRnhrRzFqUUJCcy94UmNDRlVHU3ZObndCaWZQcmNpTEVOMGhRWklIZmp5bU14aExRT2ZBTFpYZHVJQkIxRys1WEYza3VHUXgzbWZ1QUE9PQo=",
-      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-dev-v0.1.8-5/Warksite-Dev_0.1.8-5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidUVDc0VUNlRIVjJxYS9xNVpUV3U0bEtsMnpuZDFlUFFPT0M5R1pST3ExTW9BSEp0SnBraDVPU1g2T0RCaDNNRUZmTDg3d1I5SlZFQ2lzbnM0eTlUNXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzE4MTcwCWZpbGU6V2Fya3NpdGUgRGV2XzAuMS44LTZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS44LTYKSE5sRmRROUc1WDBoT0hndENESHhDSmVVQmJpOXdPcEFSQ2xHZVJNbUVMMXZuTVhFcUNPUWJoeTZEYnprOG9sd2thZ1RlNVlMWEtBWGRvOHRrc0plQUE9PQo=",
+      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-dev-v0.1.8-6/Warksite-Dev_0.1.8-6_x64-setup.exe"
     }
   }
 }
