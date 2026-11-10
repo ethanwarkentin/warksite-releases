@@ -1,9 +1,9 @@
 {
-  "version": "1.0.9-29905344",
-  "versionCode": 29905344,
-  "pub_date": "2026-11-10T14:49:19Z",
-  "notes": "Dev build from f19e7c8: Sync details: live list with upload/download progress bars (WARKSITE-S48) (#52)",
-  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-dev-v1.0.9-29905344/warksite-dev-1.0.9-29905344.apk",
-  "sha256": "57138c2e9a9846dfe441392ac9c3ce4e59099032102d769cf3a3638c32202f09",
-  "size": 74887015
+  "version": "1.0.9-29905398",
+  "versionCode": 29905398,
+  "pub_date": "2026-11-10T15:34:30Z",
+  "notes": "Dev build from 3603334: Meeting recordings: server re-run and desktop Whisper removed (WARKSITE-S49) (#54)",
+  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-dev-v1.0.9-29905398/warksite-dev-1.0.9-29905398.apk",
+  "sha256": "ab52628322baa4f43f82cc7cbbea8423424a0f2e82b94a1606d534acdf0f8751",
+  "size": 74887747
 }
