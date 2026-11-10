@@ -1,11 +1,11 @@
 {
-  "version": "0.1.8-7",
-  "notes": "Dev build from f19e7c8: Sync details: live list with upload/download progress bars (WARKSITE-S48) (#52)",
-  "pub_date": "2026-11-10T14:41:56Z",
+  "version": "0.1.8-8",
+  "notes": "Dev build from 3603334: Meeting recordings: server re-run and desktop Whisper removed (WARKSITE-S49) (#54)",
+  "pub_date": "2026-11-10T15:35:21Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidUxMcTV6UXNhUnZtOURNdlhpbytzd1dlU3VRVjdOREtPeEhGRVZEbkg4UTA2blFaRkRvdWhZVFVRZUNIUE1Ubkd1YjQ5NXQ0NlZrMHF5UC9KYXFTM3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzIxNjg5CWZpbGU6V2Fya3NpdGUgRGV2XzAuMS44LTdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS44LTcKVW8yazFCSU91Wjg3OHlsODI5VXd0b0E3WkNmZU9ZTTV6aUFxK1JXSjY1cHJwdXV2eEloUVFaSHRqdHRGa1dtQm9RdkJQbjI0RTRkZXAxbUFBRUdkQ1E9PQo=",
-      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-dev-v0.1.8-7/Warksite-Dev_0.1.8-7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidUZiWVlHdjNVRCtESVVod04zaHNWeFE0eEVnOCtIcEQzcUxLS1lBMEdHWjlBeHRLdCtYOWRFSHRnVVJ0ZzJtT0NQb3pXTUlLbUZ5MVpQQ01JMTVwNlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzI0ODk3CWZpbGU6V2Fya3NpdGUgRGV2XzAuMS44LThfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS44LTgKN0lqWTdaQU5MTk13aTROVittbmNpazFPdUJiMDN1WmxIL2YvREtCM3YySTRXbTh4aUEyQ0ZZNDRRU1c2dk9TV04vM1lRazl4ZmZGbXd0blQ1T0VsQUE9PQo=",
+      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-dev-v0.1.8-8/Warksite-Dev_0.1.8-8_x64-setup.exe"
     }
   }
 }
