@@ -1,9 +1,9 @@
 {
-  "version": "1.0.9-29905288",
-  "versionCode": 29905288,
-  "pub_date": "2026-11-10T13:59:22Z",
-  "notes": "Dev build from 6f44663: Desktop: view photos in an in-app viewer instead of Windows Photos (WARK-T11) (#51)",
-  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-dev-v1.0.9-29905288/warksite-dev-1.0.9-29905288.apk",
-  "sha256": "2998e5c96a756f9beeda58ce49edf5c1347ac92a5aec8e196f07f5a788ac3570",
-  "size": 74870063
+  "version": "1.0.9-29905344",
+  "versionCode": 29905344,
+  "pub_date": "2026-11-10T14:49:19Z",
+  "notes": "Dev build from f19e7c8: Sync details: live list with upload/download progress bars (WARKSITE-S48) (#52)",
+  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-dev-v1.0.9-29905344/warksite-dev-1.0.9-29905344.apk",
+  "sha256": "57138c2e9a9846dfe441392ac9c3ce4e59099032102d769cf3a3638c32202f09",
+  "size": 74887015
 }
