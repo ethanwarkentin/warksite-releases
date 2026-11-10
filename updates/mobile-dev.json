@@ -1,9 +1,9 @@
 {
-  "version": "1.0.9-29905398",
-  "versionCode": 29905398,
-  "pub_date": "2026-11-10T15:34:30Z",
-  "notes": "Dev build from 3603334: Meeting recordings: server re-run and desktop Whisper removed (WARKSITE-S49) (#54)",
-  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-dev-v1.0.9-29905398/warksite-dev-1.0.9-29905398.apk",
-  "sha256": "ab52628322baa4f43f82cc7cbbea8423424a0f2e82b94a1606d534acdf0f8751",
-  "size": 74887747
+  "version": "1.0.9-29905745",
+  "versionCode": 29905745,
+  "pub_date": "2026-11-10T21:23:05Z",
+  "notes": "Dev build from 136d425: Subcontractor directory and trade list (WARKSITE-S51) (#55)",
+  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-dev-v1.0.9-29905745/warksite-dev-1.0.9-29905745.apk",
+  "sha256": "9ecead1c03741051adf62adcd24682a790b5a04f9d23ea616016698e735896b1",
+  "size": 74949247
 }
