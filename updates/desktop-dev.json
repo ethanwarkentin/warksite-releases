@@ -1,11 +1,11 @@
 {
-  "version": "0.1.8-4",
-  "notes": "Dev build from 53a80bf: Meeting recordings phase 2: free local transcription on desktop (WARK-S44) (#49)",
-  "pub_date": "2026-10-26T16:04:56Z",
+  "version": "0.1.8-5",
+  "notes": "Dev build from 7ca5239: Desktop: wait for a just-downloaded file to be free before opening it (#50)",
+  "pub_date": "2026-11-10T05:59:46Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidUFlazVieTJJelRtMld5eGFoK2g5QXhZRFE3eVB2M21yK1BWRlVLQjgxVWpmOGtvN1g5b2JjZVhYMTVMU1NadzFzNDd1Mk1KUVdEUHFtbkN3U1ZkZXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDMwNjc4CWZpbGU6V2Fya3NpdGUgRGV2XzAuMS44LTRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS44LTQKWjA0L3BoelI0R1JkenpqRHNBMlZ5OXBvNU80dFRlZHlDbEloLzJQZklYV2NHTGE4KzZCRjZYWmJod21NSVNTNXZFamFzNnVkRDJuN1haNGR1MklSQ1E9PQo=",
-      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-dev-v0.1.8-4/Warksite-Dev_0.1.8-4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidUNjRGNId05lUGcvVTVON2JNelhmdURGMDRzdVU4RWdUNnNDWmQvWStJWW53QTJoajRaczBiUUcxVjhMMU4rMytnVVFId2NzYW40Y1lIRWdMa1YwTEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjkwMzUyCWZpbGU6V2Fya3NpdGUgRGV2XzAuMS44LTVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS44LTUKYmVqaWpRTjlxRnhrRzFqUUJCcy94UmNDRlVHU3ZObndCaWZQcmNpTEVOMGhRWklIZmp5bU14aExRT2ZBTFpYZHVJQkIxRys1WEYza3VHUXgzbWZ1QUE9PQo=",
+      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-dev-v0.1.8-5/Warksite-Dev_0.1.8-5_x64-setup.exe"
     }
   }
 }
