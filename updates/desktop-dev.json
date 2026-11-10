@@ -1,11 +1,11 @@
 {
-  "version": "0.1.8-8",
-  "notes": "Dev build from 3603334: Meeting recordings: server re-run and desktop Whisper removed (WARKSITE-S49) (#54)",
-  "pub_date": "2026-11-10T15:35:21Z",
+  "version": "0.1.8-9",
+  "notes": "Dev build from 136d425: Subcontractor directory and trade list (WARKSITE-S51) (#55)",
+  "pub_date": "2026-11-10T21:11:29Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidUZiWVlHdjNVRCtESVVod04zaHNWeFE0eEVnOCtIcEQzcUxLS1lBMEdHWjlBeHRLdCtYOWRFSHRnVVJ0ZzJtT0NQb3pXTUlLbUZ5MVpQQ01JMTVwNlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzI0ODk3CWZpbGU6V2Fya3NpdGUgRGV2XzAuMS44LThfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS44LTgKN0lqWTdaQU5MTk13aTROVittbmNpazFPdUJiMDN1WmxIL2YvREtCM3YySTRXbTh4aUEyQ0ZZNDRRU1c2dk9TV04vM1lRazl4ZmZGbXd0blQ1T0VsQUE9PQo=",
-      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-dev-v0.1.8-8/Warksite-Dev_0.1.8-8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidUVuYlRFSy9jV1B3eXpnVnhFaWdWa3FuZnRTSzZ0Q3MvREFzSVlhWkhsY09xcnZ2bmlXZklpOWUzL2Y4WUNmSFZrRDI5RTFPcGN6YXE4S1Q3WWVVUVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzQ1MDc2CWZpbGU6V2Fya3NpdGUgRGV2XzAuMS44LTlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS44LTkKbVRFcTI0aE83N3BJMzlwRmNDZm5BTDV2eVBPcW1GV2dMc0hobURzZXhIMnpESkdJREMwN0VXRk1jb1pxWVNnV29sYXdZNzlrQXhPaXRHZXJSNnkyQWc9PQo=",
+      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-dev-v0.1.8-9/Warksite-Dev_0.1.8-9_x64-setup.exe"
     }
   }
 }
