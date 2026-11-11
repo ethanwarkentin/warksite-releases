@@ -1,11 +1,11 @@
 {
-  "version": "0.1.8",
-  "notes": "New: Storage > Reset",
-  "pub_date": "2026-10-21T13:23:21Z",
+  "version": "0.1.9",
+  "notes": "Subcontractor directory and trades, walkthrough checklists, scope of work and bid packages with print to PDF, meeting recordings with server transcription, in-app photo viewer, sync progress details.",
+  "pub_date": "2026-11-11T16:30:15Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidUpiWjI5Ylg5dVUyN3RNa2tLMjR3NEptZCtqVUVUNEVZOWZTQTdsU2ZHZnJhOHowelVQcE5qcCsrb1M5Q2tsc3lRVHpPZ0Nnb2k0UVNVOWlwUHhPalFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTg5MDAwCWZpbGU6V2Fya3NpdGVfMC4xLjhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS44Ckc4SEdpU2dScFVwNEVUR2d1ajNFTWRKQ3hZOFZRcEZTcTAyMnZ1em1JbytWMHdrMWV2RUt1TjZIaFRGRFBOTzUxcEUydVpneG5SMlQrczI0L1RpK0NBPT0K",
-      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-v0.1.8/Warksite_0.1.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidU1kMy9nS09wRVpXM2FhY2t3TVR0NkJETkpNbnJJa0FQTnpocTRDVGNwejNjODdWTFFvV01zV09FTTh6ZlJvd0FDM3lTZnVNejRveENLakpiSmxxa1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDE0NjE1CWZpbGU6V2Fya3NpdGVfMC4xLjlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS45CmdJT29hYVFEOFNGSHBWc0EyM0ZoL0NuOENRbWxvMklZQXhWLzRadlZnVTZad1ZDWk5yb0tod2l5YlRzL3B4WmpwTjg0MEJORC8xMUs5VmMwdWQrUURnPT0K",
+      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-v0.1.9/Warksite_0.1.9_x64-setup.exe"
     }
   }
 }
