@@ -1,9 +1,9 @@
 {
-  "version": "1.0.9-29906254",
-  "versionCode": 29906254,
-  "pub_date": "2026-11-11T05:58:21Z",
-  "notes": "Dev build from 8179784: Walkthrough templates and walkthroughs (WARKSITE-S52) (#57)",
-  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-dev-v1.0.9-29906254/warksite-dev-1.0.9-29906254.apk",
-  "sha256": "bd1421c141807f4d390b00cc485dbd2b1834f2d6f67c927b74e7cd71e1a93323",
-  "size": 75024931
+  "version": "1.0.9-29906812",
+  "versionCode": 29906812,
+  "pub_date": "2026-11-11T15:00:17Z",
+  "notes": "Dev build from 8a0e068: Build, deploy and release from this PC instead of GitHub Actions (#58)",
+  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-dev-v1.0.9-29906812/warksite-dev-1.0.9-29906812.apk",
+  "sha256": "35bdf58b68c1d092f5400d6090aa6ab53041681f43e09010060dcedd48135fd1",
+  "size": 73943587
 }
