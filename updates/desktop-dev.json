@@ -1,11 +1,11 @@
 {
-  "version": "0.1.8-11",
-  "notes": "Dev build from 8a0e068: Build, deploy and release from this PC instead of GitHub Actions (#58)",
-  "pub_date": "2026-11-11T14:52:27Z",
+  "version": "0.1.8-12",
+  "notes": "Dev build from 1cb2aac: Faster local dev ships: changed parts only, in parallel, smaller builds (#60)",
+  "pub_date": "2026-11-11T15:37:59Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidURRNklmWlRyWnNlWkhRL3poN29Ed3NzZWZFZ3JldDFNSmdyRm9nVVJKaDhVR2NzZ0xtbUhFYkpvZlBzUmloblo5czZhUXFLS3VRNDQzbko2b2NGa0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDA4NzQ2CWZpbGU6V2Fya3NpdGUgRGV2XzAuMS44LTExX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuOC0xMQoxUXIyZWZoN3hOdzV5MXdyTlVJK0pzZENZVHlETHlnbGZPUG9EZnZsSU96ZGx5ZG4reFJQSFludUxkUVIrVmw3UXFPMDk4eXlTTkFrVlpQWCszQi9BZz09Cg==",
-      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-dev-v0.1.8-11/Warksite-Dev_0.1.8-11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidU1zOTZtU3puMkxuMFhYUzFqR1dnMDhySzFkbGlBS3NjSXZNeC9ZMy9DR0RyR0NjMldGRENLc2dqbE1DZ3FSMnNFbTBsc2pQRVV2bExOSTI2S3oxN1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDExNDc4CWZpbGU6V2Fya3NpdGUgRGV2XzAuMS44LTEyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuOC0xMgpwVFRtRGFpR2hpQlg1MERldDJyWGtaTmljVkViQ3o1M1dRclhvK1VFTGo0WlpIdDdVL05kbGJQRC9QNUJjd0o3Y1FqeHI4NnIzWTMvU0ViN29RWEJDUT09Cg==",
+      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-dev-v0.1.8-12/Warksite-Dev_0.1.8-12_x64-setup.exe"
     }
   }
 }
