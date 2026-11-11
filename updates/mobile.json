@@ -1,9 +1,9 @@
 {
-  "version": "1.0.9",
-  "versionCode": 29878197,
-  "pub_date": "2026-10-22T18:15:14Z",
-  "notes": "Projects now show Tasks, Materials and Notes in tabs grouped by section, matching the desktop app.",
-  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-v1.0.9/warksite-1.0.9.apk",
-  "sha256": "2eb0775be3bbf1be5cf999c0fb8a29cee99f5ca354218362a8bb20f7982935af",
-  "size": 72134652
+  "version": "1.0.10",
+  "versionCode": 29906910,
+  "pub_date": "2026-11-11T16:38:22Z",
+  "notes": "Walkthrough checklists, read-only scope of work, meeting recordings, project tabs and search, sync progress details.",
+  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-v1.0.10/warksite-1.0.10.apk",
+  "sha256": "7a59a9dd7e1e7daaf73c66548c172556a5c44638d07835376ad7656d74e6e606",
+  "size": 73977979
 }
