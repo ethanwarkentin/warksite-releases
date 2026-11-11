@@ -1,9 +1,9 @@
 {
-  "version": "1.0.9-29905745",
-  "versionCode": 29905745,
-  "pub_date": "2026-11-10T21:23:05Z",
-  "notes": "Dev build from 136d425: Subcontractor directory and trade list (WARKSITE-S51) (#55)",
-  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-dev-v1.0.9-29905745/warksite-dev-1.0.9-29905745.apk",
-  "sha256": "9ecead1c03741051adf62adcd24682a790b5a04f9d23ea616016698e735896b1",
-  "size": 74949247
+  "version": "1.0.9-29906254",
+  "versionCode": 29906254,
+  "pub_date": "2026-11-11T05:58:21Z",
+  "notes": "Dev build from 8179784: Walkthrough templates and walkthroughs (WARKSITE-S52) (#57)",
+  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-dev-v1.0.9-29906254/warksite-dev-1.0.9-29906254.apk",
+  "sha256": "bd1421c141807f4d390b00cc485dbd2b1834f2d6f67c927b74e7cd71e1a93323",
+  "size": 75024931
 }
