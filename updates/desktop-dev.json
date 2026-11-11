@@ -1,11 +1,11 @@
 {
-  "version": "0.1.8-12",
-  "notes": "Dev build from 1cb2aac: Faster local dev ships: changed parts only, in parallel, smaller builds (#60)",
-  "pub_date": "2026-11-11T15:37:59Z",
+  "version": "0.1.9-1",
+  "notes": "Dev build from 1535894: Bids: requests, prices, compare, award, estimate, allowances (WARKSITE-S53 phase C) (#61)",
+  "pub_date": "2026-11-11T17:20:59Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidU1zOTZtU3puMkxuMFhYUzFqR1dnMDhySzFkbGlBS3NjSXZNeC9ZMy9DR0RyR0NjMldGRENLc2dqbE1DZ3FSMnNFbTBsc2pQRVV2bExOSTI2S3oxN1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDExNDc4CWZpbGU6V2Fya3NpdGUgRGV2XzAuMS44LTEyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuOC0xMgpwVFRtRGFpR2hpQlg1MERldDJyWGtaTmljVkViQ3o1M1dRclhvK1VFTGo0WlpIdDdVL05kbGJQRC9QNUJjd0o3Y1FqeHI4NnIzWTMvU0ViN29RWEJDUT09Cg==",
-      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-dev-v0.1.8-12/Warksite-Dev_0.1.8-12_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidUxSaW5JcXdxc1dVOFd6SndEY3g2bmJDSmdxMXp3MnY5RFJ1Qk16dFlSQTFwMm1rWnVQclJNRkVodEdwZVBKZW1HZ3ZVZjlOVEszTi9Zamh3RDNBaEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDE3NjU4CWZpbGU6V2Fya3NpdGUgRGV2XzAuMS45LTFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS45LTEKWlRxb3FaK0ZoNDliUVRNYkR3blpCU1VFMmlJZUtrckh4SisrSW9ZbGlsWkVQb0JHT1dmMWRDc3g2S2VUNC8xUER1VTExTGJIUHc0RVQyUERTcDB6RFE9PQo=",
+      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-dev-v0.1.9-1/Warksite-Dev_0.1.9-1_x64-setup.exe"
     }
   }
 }
