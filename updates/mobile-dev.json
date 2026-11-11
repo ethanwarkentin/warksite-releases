@@ -1,9 +1,9 @@
 {
-  "version": "1.0.9-29906858",
-  "versionCode": 29906858,
-  "pub_date": "2026-11-11T15:45:04Z",
-  "notes": "Dev build from 1cb2aac: Faster local dev ships: changed parts only, in parallel, smaller builds (#60)",
-  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-dev-v1.0.9-29906858/warksite-dev-1.0.9-29906858.apk",
-  "sha256": "b9b85a4094e57c41e96258f69bb97b4059faf1cbe431d12e880f9a5b08f6f2f8",
-  "size": 49594579
+  "version": "1.0.10-29906961",
+  "versionCode": 29906961,
+  "pub_date": "2026-11-11T17:26:31Z",
+  "notes": "Dev build from 1535894: Bids: requests, prices, compare, award, estimate, allowances (WARKSITE-S53 phase C) (#61)",
+  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-dev-v1.0.10-29906961/warksite-dev-1.0.10-29906961.apk",
+  "sha256": "0308010ab51e5e4440279f3be4ae9172ebac587272d653271e18cf12607e6906",
+  "size": 49615291
 }
