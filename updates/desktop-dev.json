@@ -1,11 +1,11 @@
 {
-  "version": "0.1.9-1",
-  "notes": "Dev build from 1535894: Bids: requests, prices, compare, award, estimate, allowances (WARKSITE-S53 phase C) (#61)",
-  "pub_date": "2026-11-11T17:20:59Z",
+  "version": "0.1.9-2",
+  "notes": "Dev build from 88965a7: Bids: automated outreach, reminders and sub response link (WARKSITE-S54) (#62)",
+  "pub_date": "2026-11-13T14:48:52Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidUxSaW5JcXdxc1dVOFd6SndEY3g2bmJDSmdxMXp3MnY5RFJ1Qk16dFlSQTFwMm1rWnVQclJNRkVodEdwZVBKZW1HZ3ZVZjlOVEszTi9Zamh3RDNBaEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDE3NjU4CWZpbGU6V2Fya3NpdGUgRGV2XzAuMS45LTFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS45LTEKWlRxb3FaK0ZoNDliUVRNYkR3blpCU1VFMmlJZUtrckh4SisrSW9ZbGlsWkVQb0JHT1dmMWRDc3g2S2VUNC8xUER1VTExTGJIUHc0RVQyUERTcDB6RFE9PQo=",
-      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-dev-v0.1.9-1/Warksite-Dev_0.1.9-1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidUt4R2VsUGFocXh0c3VLRWVvTEZHVDFaZ3F3R0I5QTZSaVRlNWU2bnI1Vk1Iejh3UlBId0txK3J4c0M1a0hubTdOQ1hmM3BYaHByNi9rNmhWUEQvd3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTgxMzMyCWZpbGU6V2Fya3NpdGUgRGV2XzAuMS45LTJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS45LTIKblJXM0pFcG9FR0dWS1VpNDFQR1p3UEFzNUIyUXF3ajJCQ3o2OXA1TkJyWjlxdDdpNnNVOHBTckZxL0c2T05xZjVjNmFIV29PQmF6OG9QY0J0RjlkRHc9PQo=",
+      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-dev-v0.1.9-2/Warksite-Dev_0.1.9-2_x64-setup.exe"
     }
   }
 }
