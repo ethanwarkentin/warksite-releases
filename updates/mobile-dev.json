@@ -1,9 +1,9 @@
 {
-  "version": "1.0.10-29909689",
-  "versionCode": 29909689,
-  "pub_date": "2026-11-13T14:55:10Z",
-  "notes": "Dev build from 88965a7: Bids: automated outreach, reminders and sub response link (WARKSITE-S54) (#62)",
-  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-dev-v1.0.10-29909689/warksite-dev-1.0.10-29909689.apk",
-  "sha256": "2822dd7a298c4d7672e0b56f3d2ac5a86796e98c18db6a8b614c42a9ffe4bf04",
-  "size": 49630611
+  "version": "1.0.10-29909999",
+  "versionCode": 29909999,
+  "pub_date": "2026-11-13T20:03:41Z",
+  "notes": "Dev build from 0121c51: Templates: a yesNo question can control a spec line (WARKSITE-S60 backend) (#65)",
+  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-dev-v1.0.10-29909999/warksite-dev-1.0.10-29909999.apk",
+  "sha256": "7ea96ff0e615add040a47170606038c63d25d511d91fae199e6310af701248f2",
+  "size": 49636787
 }
