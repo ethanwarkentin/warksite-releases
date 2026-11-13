@@ -1,9 +1,9 @@
 {
-  "version": "1.0.10-29906961",
-  "versionCode": 29906961,
-  "pub_date": "2026-11-11T17:26:31Z",
-  "notes": "Dev build from 1535894: Bids: requests, prices, compare, award, estimate, allowances (WARKSITE-S53 phase C) (#61)",
-  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-dev-v1.0.10-29906961/warksite-dev-1.0.10-29906961.apk",
-  "sha256": "0308010ab51e5e4440279f3be4ae9172ebac587272d653271e18cf12607e6906",
-  "size": 49615291
+  "version": "1.0.10-29909689",
+  "versionCode": 29909689,
+  "pub_date": "2026-11-13T14:55:10Z",
+  "notes": "Dev build from 88965a7: Bids: automated outreach, reminders and sub response link (WARKSITE-S54) (#62)",
+  "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/mobile-dev-v1.0.10-29909689/warksite-dev-1.0.10-29909689.apk",
+  "sha256": "2822dd7a298c4d7672e0b56f3d2ac5a86796e98c18db6a8b614c42a9ffe4bf04",
+  "size": 49630611
 }
