@@ -1,11 +1,11 @@
 {
-  "version": "0.1.9-3",
-  "notes": "Dev build from 57bc279: Scope: deleting a walkthrough removes the scope lines that came only from it (WARKSITE-S59) (#63)",
-  "pub_date": "2026-11-13T19:29:17Z",
+  "version": "0.1.9-4",
+  "notes": "Dev build from 0121c51: Templates: a yesNo question can control a spec line (WARKSITE-S60 backend) (#65)",
+  "pub_date": "2026-11-13T19:58:59Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidUlWMVlDbUVqZThoaUF0RTlkYUk2YlN5WHloR1lBMThrR3AwWnpRWE9yTkpUaXJ5Q1hkT3d1bTNIdTRSZEVzSnBmemhBS2dZN0JEbnFlQm9kSUVsc1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTk4MTU2CWZpbGU6V2Fya3NpdGUgRGV2XzAuMS45LTNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS45LTMKMis2bXNIaHc4QWZaVlhkM2x6VmZIZ2lwcHdOSGhUN1daV1cvSCs0WWt2eVBWQnp3dUpSd1VTQmxQL1gwbnZlaXZ6VlZzRVV4VHVzVlhXUGVuT3RXQlE9PQo=",
-      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-dev-v0.1.9-3/Warksite-Dev_0.1.9-3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidUZ2b1lTaFpGc0ZsR2pxazRwOGx5eXBFckQyeXNHYlJ5WWNPUjJBbm0rVTZUdW5FVk9EbEF4Uk5jNFNQdmZ1d2FSWEhlSW1JWktld1Mxc3J0WGJQbndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTk5OTM4CWZpbGU6V2Fya3NpdGUgRGV2XzAuMS45LTRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS45LTQKNlpFd0FiWjFiWnZ1bnBCLzhCczhldnNEcU5FY2QreHJqdXY5bmg2THorZU5qNFNXMnZubndnOUg1Tk9DcWg0UVhzOEFnS2d3azlpN0NKbUdMRFhCQXc9PQo=",
+      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-dev-v0.1.9-4/Warksite-Dev_0.1.9-4_x64-setup.exe"
     }
   }
 }
