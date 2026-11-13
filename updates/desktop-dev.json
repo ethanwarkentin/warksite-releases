@@ -1,11 +1,11 @@
 {
-  "version": "0.1.9-2",
-  "notes": "Dev build from 88965a7: Bids: automated outreach, reminders and sub response link (WARKSITE-S54) (#62)",
-  "pub_date": "2026-11-13T14:48:52Z",
+  "version": "0.1.9-3",
+  "notes": "Dev build from 57bc279: Scope: deleting a walkthrough removes the scope lines that came only from it (WARKSITE-S59) (#63)",
+  "pub_date": "2026-11-13T19:29:17Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidUt4R2VsUGFocXh0c3VLRWVvTEZHVDFaZ3F3R0I5QTZSaVRlNWU2bnI1Vk1Iejh3UlBId0txK3J4c0M1a0hubTdOQ1hmM3BYaHByNi9rNmhWUEQvd3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTgxMzMyCWZpbGU6V2Fya3NpdGUgRGV2XzAuMS45LTJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS45LTIKblJXM0pFcG9FR0dWS1VpNDFQR1p3UEFzNUIyUXF3ajJCQ3o2OXA1TkJyWjlxdDdpNnNVOHBTckZxL0c2T05xZjVjNmFIV29PQmF6OG9QY0J0RjlkRHc9PQo=",
-      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-dev-v0.1.9-2/Warksite-Dev_0.1.9-2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidUlWMVlDbUVqZThoaUF0RTlkYUk2YlN5WHloR1lBMThrR3AwWnpRWE9yTkpUaXJ5Q1hkT3d1bTNIdTRSZEVzSnBmemhBS2dZN0JEbnFlQm9kSUVsc1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTk4MTU2CWZpbGU6V2Fya3NpdGUgRGV2XzAuMS45LTNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS45LTMKMis2bXNIaHc4QWZaVlhkM2x6VmZIZ2lwcHdOSGhUN1daV1cvSCs0WWt2eVBWQnp3dUpSd1VTQmxQL1gwbnZlaXZ6VlZzRVV4VHVzVlhXUGVuT3RXQlE9PQo=",
+      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-dev-v0.1.9-3/Warksite-Dev_0.1.9-3_x64-setup.exe"
     }
   }
 }
