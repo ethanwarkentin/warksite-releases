@@ -1,11 +1,11 @@
 {
-  "version": "0.1.9-5",
-  "notes": "Dev build from 13835fd: Scope: a new walkthrough re-adds spec lines after the old one was deleted (WARKSITE-S64) (#71)",
-  "pub_date": "2026-11-15T15:22:10Z",
+  "version": "0.1.9-6",
+  "notes": "Dev build from 8e1bb74: Desktop sync: pause when hidden, back off when idle (WARKSITE-S65) (#73)",
+  "pub_date": "2026-11-16T22:37:03Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidUk5alVNZFRTOFBTeGpPMzl5bEYvSFU0U2JIeFh3QTlsWWZlQ0ozU1M2NENXMHBBY09XdGl3VEVlZTNlWlNnVVdNMEhLVno4UUFpNTY2M3hTcmo3UkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzU2MTMwCWZpbGU6V2Fya3NpdGUgRGV2XzAuMS45LTVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS45LTUKYUY5UXRoVVVCWlg1dFRsVWJMeC9POGZnazYwZ3Z5MnhiNDBCbHNLdEptUXp4YUVEU2laeDRzb0F6UzlRY095anVoQmNidk1TQVh4SzBLRFRuUzJSQ3c9PQo=",
-      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-dev-v0.1.9-5/Warksite-Dev_0.1.9-5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURUNMUWRrMTNidUVvLzNxTWtTTVdrSTl4QkQ5OUprRElMTHhJMmV5YkpzbFVtd25rV3YrbTNCY3owbllZUkRVcjR0dFVjQXpKejhjZ3NnVzNYWHRLRUYrbjFIeS80RFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODY4NjIyCWZpbGU6V2Fya3NpdGUgRGV2XzAuMS45LTZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS45LTYKNU9MUDJuV25xOWc5eURPSU1aY1ZBTUNnY2ZwU01QWU4ycFRlTHFLa1BxSlZ4d3hoV0RQbHQ1WkpGWnJ2c1ZKdFJ0aEtKdUtacUI0MCswdlpnck5PQlE9PQo=",
+      "url": "https://github.com/ethanwarkentin/warksite-releases/releases/download/desktop-dev-v0.1.9-6/Warksite-Dev_0.1.9-6_x64-setup.exe"
     }
   }
 }
